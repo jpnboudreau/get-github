@@ -1,1 +1,1 @@
-# get-github
+# git-github
